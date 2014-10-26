@@ -8,9 +8,9 @@ Code Book
 #### Variables
 
 Output tidy_team.txt has following column names
-Subject
-Activity
-MeanSamples
+Subject -- integer
+Activity -- factor
+MeanSamples -- numeric
 
 Output tidy.txt has following column names
 Subject
